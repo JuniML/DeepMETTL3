@@ -28,8 +28,8 @@ The User have to through the following steps:
 **1. Retrieval of Molecules**
 > The notebook is present in the Notebook directory. 
 
-**2. Virtual Screening**
-> Interested in docking multiple ligands into a single target site? This is what you require. This protocol covers all steps from ligand preparation to docking pose visualization in the target site of interest.
+**2. Generation of DeepCoy decoys**
+> The DeepCoy algorithm was used to generate decoys for each active molecule. 100 decoys were generated for each active and then 50 optimized decoys were used for each active. User can get the code for DeepCoys from ; https://github.com/AngelRuizMoreno/Jupyter_Dock
 
 **3. Blind Docking**
 > Do you want to dock multiple ligands into whole target surface and/or its pockets? This protocol demonstrates the entire process of pocket search and their use as potential organic molecule binding sites. **(Documentation in progress)**
