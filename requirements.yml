@@ -1,4 +1,4 @@
-name: Jupyter_Dock
+name: DeepMETLL3
 channels:
   - bioconda
   - conda-forge
