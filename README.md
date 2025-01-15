@@ -55,5 +55,7 @@ conda activate DeepMETLL3
 ## Examples
 > Toy dataset are present in the example directory. the example.ipynb can be used . 
 
-
+## Citation
+## License
+> These notebooks are under MIT, see the LICENSE file for details
 Question about usage or troubleshooting? Please leave a comment here
