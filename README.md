@@ -23,10 +23,10 @@
 
 **DeepMETLL3 is deep learning based scoring function for METLL3 structure based virtual screening.** <br><br>
 
-The USer have to through following steps:
+The User have to through the following steps:
 
-**1. Molecular Docking**
-> For any new user, this is a good place to start. Jupyter Docks' main stages for molecular docking, as well as all functions, methods and codes are described here along with brief explanations, hints, and warnings.
+**1. Retrieval of Molecules**
+> The notebook is present in the Notebook directory. 
 
 **2. Virtual Screening**
 > Interested in docking multiple ligands into a single target site? This is what you require. This protocol covers all steps from ligand preparation to docking pose visualization in the target site of interest.
