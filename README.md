@@ -10,8 +10,6 @@
 
 - [**Installation**](#installation)
 
-- [**Limitations**](#limitations)
-
 - [**Examples**](#examples)
 
 - [**Citation**](#citation)
@@ -54,6 +52,8 @@ The User have to through the following steps:
 conda env create -f requirments.yml
 conda activate DeepMETLL3
 ```
+## Examples
+> Toy dataset are present in the example directory. the example.ipynb can be used . 
 
 
 Question about usage or troubleshooting? Please leave a comment here
