@@ -1,3 +1,3 @@
 # DeepMETTL3
 
-![logo](img/logo.png)
+![logo](img/figure_1.png)
