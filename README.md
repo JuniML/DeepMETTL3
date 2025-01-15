@@ -45,9 +45,15 @@ The User have to through the following steps:
 
 
 **7. Predict**
-> A user-friendly jupyternotebook is prepared for users to used for their molecules
+> A user-friendly jupyternotebook is prepared for users to use for their molecules
 ## Requirements
-> The required libraries are present in the requirments.yml file. 
+> The required libraries are present in the requirments.yml file.
+## Installation
+> Users have to use the following command to create a virtual environment for this project
+```
+conda env create -f requirments.yml
+conda activate DeepMETLL3
+```
 
 
 Question about usage or troubleshooting? Please leave a comment here
