@@ -14,7 +14,7 @@
 
 - [**Run Prediction**](#Run_Prediction)
 
-- [**Streamlit app**](#Streamlit)
+- [**Streamlit app**](#Streamlit_app)
 
 - [**Citation**](#citation)
 
