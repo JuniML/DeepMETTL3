@@ -61,14 +61,17 @@ conda activate DeepMETLL3
 
 ## Run_Prediction
 > Toy dataset are present in the example directory. the example.ipynb can be used .
->
+ ```
+conda activate DeepMETLL3
+DeepMETTL3.py -r receptor.pdb -l ligand.sdf -o output.csv
+```
 ## Streamlit_app
 > We have developed the graphical userinterface for DeepMETTL3 using streamlit app. Install all necassary libraries and then run the following command to run the app.
  ```
 conda activate DeepMETLL3
 streamlit run DeepMETTL3-streamlit.py
 ```
-![logo](img/figure_1.png)
+![logo](img/comments.png)
 ## Citation
 ## License
 > These notebooks are under MIT, see the LICENSE file for details
