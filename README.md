@@ -60,7 +60,7 @@ conda activate DeepMETLL3
 > Toy dataset are present in the example directory. the example.ipynb can be used .
 
 ## Run_Prediction
-> Toy dataset are present in the example directory. the example.ipynb can be used .
+> To run the prediction, Use Jupyter Noteboob or the following command. 
  ```
 conda activate DeepMETLL3
 DeepMETTL3.py -r receptor.pdb -l ligand.sdf -o output.csv
