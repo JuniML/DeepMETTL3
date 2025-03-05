@@ -12,6 +12,10 @@
 
 - [**Examples**](#examples)
 
+- [**Run Prediction**](#Run_Prediction)
+
+- [**Streamlit app**](#Streamlit)
+
 - [**Citation**](#citation)
 
 - [**License**](#license) 
@@ -53,7 +57,13 @@ conda env create -f requirments.yml
 conda activate DeepMETLL3
 ```
 ## Examples
-> Toy dataset are present in the example directory. the example.ipynb can be used . 
+> Toy dataset are present in the example directory. the example.ipynb can be used .
+
+## Run_Prediction
+> Toy dataset are present in the example directory. the example.ipynb can be used .
+>
+## Streamlit app
+> We have developed the graphical userinterface for DeepMETTL3 using streamlit app. Install all necassary libraries and then run the following command to run the app.  
 
 ## Citation
 ## License
