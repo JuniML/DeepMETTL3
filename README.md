@@ -63,8 +63,12 @@ conda activate DeepMETLL3
 > Toy dataset are present in the example directory. the example.ipynb can be used .
 >
 ## Streamlit app
-> We have developed the graphical userinterface for DeepMETTL3 using streamlit app. Install all necassary libraries and then run the following command to run the app.  
-
+> We have developed the graphical userinterface for DeepMETTL3 using streamlit app. Install all necassary libraries and then run the following command to run the app.
+ ```
+conda activate DeepMETLL3
+streamlit run DeepMETTL3-streamlit.py
+```
+![logo](img/figure_1.png)
 ## Citation
 ## License
 > These notebooks are under MIT, see the LICENSE file for details
